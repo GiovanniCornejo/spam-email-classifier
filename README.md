@@ -6,7 +6,6 @@ This project is a machine learning-based classifier designed to distinguish betw
 
 - [Introduction](#introduction)
 - [Dataset](#dataset)
-- [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
@@ -26,33 +25,6 @@ The Spam Email Classifier aims to accurately classify email messages as either s
 ## Dataset
 
 The dataset used for this project is the [Kaggle SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset). It contains a collection of SMS messages labeled as either "spam" or "ham" (not spam).
-
-## Project Structure
-
-The project is organized as follows:
-
-spam-email-classifier/
-│
-├── notebooks/
-│ ├── 01_eda.ipynb # Exploratory Data Analysis
-│ ├── 02_preprocessing.ipynb # Data Preprocessing
-│ ├── 03_modeling.ipynb # Model Training and Evaluation
-│ ├── 04_visualization.ipynb # Data Visualization
-│
-├── src/
-│ ├── data_loader.py # Data loading functions
-│ ├── feature_extraction.py # Feature extraction methods
-│ ├── model.py # Model training and evaluation
-│ ├── utils.py # Utility functions
-│
-├── data/
-│ ├── raw/ # Raw data files
-│ ├── processed/ # Processed data files
-│
-├── README.md # Project overview
-├── requirements.txt # Required Python packages
-├── .gitignore # Git ignore file
-└── LICENSE # Project license
 
 ## Installation
 
