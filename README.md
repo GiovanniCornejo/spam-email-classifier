@@ -18,10 +18,6 @@ This project is a machine learning-based classifier designed to distinguish betw
 
 The Spam Email Classifier aims to accurately classify email messages as either spam or ham using a variety of machine learning techniques. This project provides insights into text data analysis, feature engineering, and model evaluation.
 
-## Introduction
-
-The Spam Email Classifier aims to accurately classify email messages as either spam or ham using a variety of machine learning techniques. This project provides insights into text data analysis, feature engineering, and model evaluation.
-
 ## Dataset
 
 The dataset used for this project is the [Kaggle SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset). It contains a collection of SMS messages labeled as either "spam" or "ham" (not spam).
