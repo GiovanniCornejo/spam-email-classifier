@@ -1,5 +1,7 @@
 # Spam Email Classifier
 
+![Thumbnail](thumbnail.jpg)
+
 This project is a machine learning-based classifier designed to distinguish between spam and ham (non-spam) email messages. The classifier is built using Python, leveraging techniques for text preprocessing, feature extraction, and binary classification.
 
 ## Table of Contents
@@ -95,6 +97,7 @@ The performance of trained models is assessed using various metrics to measure t
 - **F1 Score**: The harmonic mean of precision and recall, providing a balanced measure between the two.
 
 Further analysis is done using:
+
 - **Confusion Matrix**: A table that summarizes the performance of a classification model by comparing actual and predicted classes.
 - **Area Under the ROC Curve (AUC)**: A measure of the classifier's ability to distinguish between classes, where higher values indicate better performance.
 
